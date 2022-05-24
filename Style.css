@@ -1,0 +1,23 @@
+.row{
+  display: flex;
+}
+
+.col{
+  background-color:pink;
+  margin:4px 4px 4px 4px ;
+  padding:10px;
+  flex: 1;
+  
+}
+.col-2{
+  background-color:pink;
+  margin:4px 4px 4px 4px ;
+  padding:10px;
+  flex: 2;
+}
+.col-3{
+   background-color:pink;
+  margin:4px 4px 4px 4px ;
+  padding:10px;
+  flex: 3;
+}
